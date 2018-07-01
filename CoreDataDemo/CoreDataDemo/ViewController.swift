@@ -58,4 +58,8 @@ class ViewController: UIViewController {
 //		DBManager.shared.fetchAllEmployee()
 	}
 
+    @IBAction func listAction(_ sender: Any) {
+        self.performSegue(withIdentifier: "listSegueId", sender: nil)
+    }
+    
 }

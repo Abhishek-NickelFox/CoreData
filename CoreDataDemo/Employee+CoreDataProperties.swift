@@ -9,7 +9,6 @@
 import Foundation
 import CoreData
 
-
 extension Employee {
 
     @nonobjc public class func fetchRequest() -> NSFetchRequest<Employee> {
