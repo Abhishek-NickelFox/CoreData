@@ -18,6 +18,7 @@
 		46075CB61F34635C00B6C021 /* CoreDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46075CB51F34635C00B6C021 /* CoreDataService.swift */; };
 		46075CB81F34636B00B6C021 /* DBManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46075CB71F34636B00B6C021 /* DBManager.swift */; };
 		46075CBA1F3465F400B6C021 /* EmployeeClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46075CB91F3465F400B6C021 /* EmployeeClass.swift */; };
+		46195BB620E73915002BDCE4 /* EmpTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46195BB520E73915002BDCE4 /* EmpTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		46075CB51F34635C00B6C021 /* CoreDataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoreDataService.swift; sourceTree = "<group>"; };
 		46075CB71F34636B00B6C021 /* DBManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DBManager.swift; sourceTree = "<group>"; };
 		46075CB91F3465F400B6C021 /* EmployeeClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmployeeClass.swift; sourceTree = "<group>"; };
+		46195BB520E73915002BDCE4 /* EmpTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmpTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 			children = (
 				46075C9B1F34624900B6C021 /* AppDelegate.swift */,
 				46075C9D1F34624900B6C021 /* ViewController.swift */,
+				46195BB520E73915002BDCE4 /* EmpTableViewController.swift */,
 				46075C9F1F34624900B6C021 /* Main.storyboard */,
 				46075CA51F34624900B6C021 /* Assets.xcassets */,
 				46075CA71F34624900B6C021 /* LaunchScreen.storyboard */,
@@ -171,6 +174,7 @@
 				46075CB61F34635C00B6C021 /* CoreDataService.swift in Sources */,
 				46075CB31F34630000B6C021 /* Employee+CoreDataProperties.swift in Sources */,
 				46075CB81F34636B00B6C021 /* DBManager.swift in Sources */,
+				46195BB620E73915002BDCE4 /* EmpTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
